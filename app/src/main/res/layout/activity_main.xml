@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="30dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="439dp"
+        app:srcCompat="@drawable/int1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        android:textStyle="bold"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="MIllions of people use to turn their ideas into reality."
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#000000"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="43dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="0dp"
+            app:srcCompat="@drawable/tab" />
+        <Button
+            android:id="@+id/next"
+            android:onClick="newAct"
+            android:layout_marginTop="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="43dp"
+            android:layout_marginStart="170dp"
+            android:text="Next" />
+
+    </LinearLayout>
+</LinearLayout>
