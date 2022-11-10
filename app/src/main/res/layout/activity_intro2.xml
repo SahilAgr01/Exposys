@@ -55,6 +55,7 @@
             app:srcCompat="@drawable/tabb" />
         <Button
             android:id="@+id/next"
+            android:onClick="nextTab"
             android:layout_marginTop="40dp"
             android:layout_width="wrap_content"
             android:layout_height="43dp"

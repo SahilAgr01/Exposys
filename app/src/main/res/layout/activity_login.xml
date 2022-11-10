@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".loginAct">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/exposyslabs" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:fontFamily="sans-serif"
+        android:text="Hey,"
+        android:textColor="#808080"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_string_here"
+        android:onClick="signIn"
+        android:textStyle="bold"
+        android:textColor="#FF0000"
+        android:textSize="25sp"
+        android:layout_marginStart="50dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="If you are new / "
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_marginStart="50dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create New "
+            android:textColor="#0C4160"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            android:layout_marginStart="5dp"
+            android:layout_marginBottom="9dp"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/editNAme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="45dp"
+        android:background="@drawable/edit_txt"
+        android:drawableLeft="@drawable/ic_baseline_person"
+        android:ems="10"
+        android:hint="  name"
+        android:inputType="textEmailAddress"
+        android:paddingStart="19dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+
+    <EditText
+        android:id="@+id/editTextAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="45dp"
+        android:background="@drawable/edit_txt"
+        android:drawableLeft="@drawable/ic_baseline_email"
+        android:ems="10"
+        android:hint="  email"
+        android:inputType="textEmailAddress"
+        android:paddingStart="19dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+
+    <EditText
+        android:id="@+id/editPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="45dp"
+        android:background="@drawable/edit_txt"
+        android:drawableLeft="@drawable/ic_baseline_security"
+        android:ems="10"
+        android:hint=" password"
+        android:inputType="textPassword"
+        android:paddingStart="19dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+
+    <Button
+        android:id="@+id/signUP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="41dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginEnd="45dp"
+        android:text="SIGN UP"
+        android:background="@drawable/button_bg" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/v1"
+            android:layout_width="100dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="41dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginEnd="45dp"
+            android:background="@color/black"/>
+
+        <TextView
+            android:id="@+id/or"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="or"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            android:layout_marginTop="25dp"
+            android:layout_marginStart="5dp" />
+        <View
+            android:id="@+id/v2"
+            android:layout_width="100dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="41dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginEnd="45dp"
+            android:background="@color/black"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="10dp">
+
+        <Button
+            android:id="@+id/google"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="45dp"
+            android:paddingTop="5dp"
+            android:background="@drawable/button_bg"
+            android:drawableLeft="@drawable/ic_icons8_google"
+            android:text="Google" />
+
+        <Button
+            android:id="@+id/linkedin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="5dp"
+            android:paddingTop="5dp"
+            android:background="@drawable/button_bg"
+            android:drawableLeft="@drawable/ic_linkedin_svgrepo_com"
+            android:text="LinkedIn" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

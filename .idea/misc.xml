@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/button_bg.xml" value="0.1535" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/edit_txt.xml" value="0.1535" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout-w936dp/activity_login.xml" value="0.164275956284153" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_home_screen.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_intro2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_login1.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
       </map>
     </option>

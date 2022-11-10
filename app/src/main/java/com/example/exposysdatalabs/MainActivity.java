@@ -6,7 +6,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+
 public class MainActivity extends AppCompatActivity {
+    FirebaseAuth mauth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,8 +18,19 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+//    @Override
+//    protected void onStart() {
+//        super.onStart();
+//        FirebaseUser user = mauth.getCurrentUser();
+//        if(user==null){
+//            startActivity(new Intent(this,login1.class));
+//        }
+//
+//    }
+
     public void newAct(View view) {
         Intent intent = new Intent(MainActivity.this,INtro2.class);
         startActivity(intent);
+        finish();
     }
 }
