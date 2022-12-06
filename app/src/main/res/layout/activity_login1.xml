@@ -64,6 +64,14 @@
         android:paddingStart="19dp"
         android:paddingTop="10dp"
         android:paddingBottom="10dp" />
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        android:layout_marginStart="50dp"
+        android:text="Remember me" />
 
     <Button
         android:id="@+id/signIn"
@@ -134,5 +142,7 @@
             android:text="LinkedIn" />
 
     </LinearLayout>
+
+
 
 </LinearLayout>

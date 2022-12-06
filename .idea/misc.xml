@@ -3,15 +3,51 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/button_bg.xml" value="0.1535" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/edit_txt.xml" value="0.1535" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/header.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/headerbg.xml" value="0.1535" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1975" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_email.xml" value="0.1535" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1535" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_person.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_baseline_support_agent_24.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_icons8_google.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_launcher_background.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/ic_linkedin_svgrepo_com.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/jobs.xml" value="0.198" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/drawable/searchbg.xml" value="0.1535" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.16331994645247658" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout-w936dp/activity_login.xml" value="0.164275956284153" />
-        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_home_screen.xml" value="0.21784420289855072" />
-        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_intro2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_about_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_home_screen.xml" value="0.2" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_iintern2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_intern.xml" value="0.264" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_internactivity0.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_intro2.xml" value="0.15806159420289856" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
-        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_login1.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_login1.xml" value="0.4" />
         <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/activity_non_tech.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/fragment_about_.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/fragment_home_frag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/fragment_intern_frag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/fragment_non_tech_roles.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/fragment_profile_frag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/fragment_tech_roles.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/header.xml" value="0.253125" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/testing.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/trya.xml" value="0.2" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/layout/tryn.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/menu/bottom_nav.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/menu/mainmenu.xml" value="0.4" />
+        <entry key="..\:/Users/agraw/Downloads/ExposysDataLabs/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

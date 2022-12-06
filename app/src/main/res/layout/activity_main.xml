@@ -9,6 +9,7 @@
     android:layout_margin="30dp"
     tools:context=".MainActivity">
 
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="439dp"
@@ -17,6 +18,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
         android:text="Get Started"
         android:textStyle="bold"
         android:textSize="16sp"/>
@@ -35,19 +37,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="0dp"
         android:orientation="horizontal">
-        <ImageView
-            android:layout_width="80dp"
-            android:layout_height="43dp"
-            android:layout_marginTop="40dp"
-            android:layout_marginStart="0dp"
-            app:srcCompat="@drawable/tab" />
+
         <Button
             android:id="@+id/next"
             android:onClick="newAct"
-            android:layout_marginTop="40dp"
+            android:layout_marginTop="36dp"
             android:layout_width="wrap_content"
             android:layout_height="43dp"
-            android:layout_marginStart="170dp"
+            android:layout_marginStart="240dp"
             android:text="Next" />
 
     </LinearLayout>
